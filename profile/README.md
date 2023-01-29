@@ -1,12 +1,18 @@
 # Asha Empire Online
 
-In the vast and thrilling universe of the Asha Empire, players take on the role of a character they own as an NFT. With the power of strategy and RPG mechanics, players embark on a journey through the stars, exploring new planets, space stations, and outposts.
+Get ready for the ultimate sci-fi gaming experience as you step into the world of the Asha Empire. Explore the vast galaxy, discover new planets, and lead your faction to victory. This game is a unique blend of strategy, RPG and FPS, where your choices matter and your skills are put to the test.
 
-Players will have to master the art of resource management, production, and trade, while also advancing their skills through education at the in-game school. Organizations can be established, alliances formed, and players can even participate in city life, securing their character's future with life insurance.
+You'll start off on a single planet and embark on a journey to build your own empire. Travel to other planets, space stations and outposts as you expand your territory and increase your power. With a focus on safety, players are protected from attacking each other in designated safe zones.
 
-As players progress, they will have the chance to engage in intense FPS combat, facing off against other players in unsafe areas, and collecting the loot of the fallen. The trading of goods and services in the game is facilitated through the use of the AEC currency, which can be traded and transferred as a token.
+Each character in the game is an NFT that can be bought, sold, and traded on the open market. Create an account, buy your NFT, and choose your character. You'll level up as you progress through the game, unlocking new technologies, weapons, vehicles, and spaceships.
 
-Step into the future and experience the ultimate adventure in the Asha Empire, where every decision you make will determine your path to success. Get ready for a new level of gameplay, where the possibilities are endless.
+Get ahead of the competition by establishing organizations, forming alliances, and creating your own regions, villages, and cities. Manage your resources and taxes wisely, as you collect revenue from your area and pay it back to the empire.
+
+Take on dangerous missions, engage in thrilling battles, and explore the unknown. You'll need to get life insurance in the cities to ensure that your character will revive from its clone if it perishes in the game. But don't worry, while you're out of the game, your character will automatically sleep in the sleeping cube.
+
+In the world of Asha Empire, you can extract different minerals, produce products, and engage in agriculture. Sell your goods on the local market or buy what you need. All transactions are made in AEC currency, a token that can be transferred or traded to your wallet.
+
+Join the battle, forge your destiny, and become the ultimate ruler of the Asha Empire. Get ready for a thrilling sci-fi adventure that you'll never forget.
 
 * [Game Play Scenario](https://github.com/Asha-Empire/Game-Play-Scenario/blob/main/README.md)
 * [Path To Asha Empire Timeline Story](https://github.com/Asha-Empire/Game-Story/blob/main/README.md)
