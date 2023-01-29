@@ -7,3 +7,6 @@ Players will have to master the art of resource management, production, and trad
 As players progress, they will have the chance to engage in intense FPS combat, facing off against other players in unsafe areas, and collecting the loot of the fallen. The trading of goods and services in the game is facilitated through the use of the AEC currency, which can be traded and transferred as a token.
 
 Step into the future and experience the ultimate adventure in the Asha Empire, where every decision you make will determine your path to success. Get ready for a new level of gameplay, where the possibilities are endless.
+
+* [Game Play Scenario](https://github.com/Asha-Empire/Game-Play-Scenario/blob/main/README.md)
+* [Path To Asha Empire Timeline Story](https://github.com/Asha-Empire/Game-Story/blob/main/README.md)
