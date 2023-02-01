@@ -16,3 +16,4 @@ Join the battle, forge your destiny, and become the ultimate ruler of the Asha E
 
 * [Game Play Scenario](https://github.com/Asha-Empire/Game-Play-Scenario/blob/main/README.md) or [This Page](https://asha-empire.github.io/Game-Play-Scenario/)
 * [Path To Asha Empire Timeline Story](https://github.com/Asha-Empire/Game-Story/blob/main/README.md) or [This Page](https://asha-empire.github.io/Game-Story/)
+* [Short Stories](https://github.com/Asha-Empire/Short-Stories/blob/main/README.md)
