@@ -6,3 +6,8 @@ permalink: pretty
 name: Asha Empire Online
 
 baseurl: '/.github/profile'
+
+github_pages:
+  - sorting_algos
+  - character_encoder
+  - asha-empire.github.io
