@@ -18,6 +18,7 @@ Join the battle, forge your destiny, and become the ultimate ruler of the Asha E
 * [Path To Asha Empire Timeline Story](https://github.com/Asha-Empire/Game-Story/blob/main/README.md) or [This Page](https://asha-empire.github.io/Game-Story/)
 * [Short Stories](https://github.com/Asha-Empire/Short-Stories/blob/main/README.md)
 
-[Asha Empire Website](https://asha-empire.com/)
-[Asha Empire Club Website](https://asha-empire.club/)
-[Asha Empire Credit Website](https://asha-empire.credit/)
+
+- [Asha Empire Website](https://asha-empire.com/)
+- [Asha Empire Club Website](https://asha-empire.club/)
+- [Asha Empire Credit Website](https://asha-empire.credit/)
