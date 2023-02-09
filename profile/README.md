@@ -19,3 +19,5 @@ Join the battle, forge your destiny, and become the ultimate ruler of the Asha E
 * [Short Stories](https://github.com/Asha-Empire/Short-Stories/blob/main/README.md)
 
 [Asha Empire Website](https://asha-empire.com/)
+[Asha Empire Club Website](https://asha-empire.club/)
+[Asha Empire Credit Website](https://asha-empire.credit/)
