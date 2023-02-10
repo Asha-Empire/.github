@@ -22,3 +22,6 @@ Join the battle, forge your destiny, and become the ultimate ruler of the Asha E
 - [Asha Empire Website](https://asha-empire.com/)
 - [Asha Empire Club Website](https://asha-empire.club/)
 - [Asha Empire Credit Website](https://asha-empire.credit/)
+- [Asha Empire Development Website](https://asha-empire.dev/)
+- [Asha Empire Online Website](https://asha-empire.online/)
+
