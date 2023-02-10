@@ -19,9 +19,11 @@ Join the battle, forge your destiny, and become the ultimate ruler of the Asha E
 * [Short Stories](https://github.com/Asha-Empire/Short-Stories/blob/main/README.md)
 
 
-- [Asha Empire Website](https://asha-empire.com/)
-- [Asha Empire Club Website](https://asha-empire.club/)
-- [Asha Empire Credit Website](https://asha-empire.credit/)
-- [Asha Empire Development Website](https://asha-empire.dev/)
-- [Asha Empire Online Website](https://asha-empire.online/)
+- [Asha Empire Website](https://asha-empire.com/) General explanation site of the game (Under development)
+- [Asha Empire Club Website](https://asha-empire.club/) The game's blog and forum (Under development)
+- [Asha Empire Credit Website](https://asha-empire.credit/) The site where the game's AEC token transactions will be made (Under development)
+- [Asha Empire Development Website](https://asha-empire.dev/) Site for game development (Under development)
+- [Asha Empire Online Website](https://asha-empire.online/) The site where the game will be registered, the player settings will be made and the game will be downloaded (Under development)
+- [Asha Empire Trade Website](https://asha-empire.trade/) The site where game assets and characters are traded (Under development)
+- [Asha Empire Wiki Website](https://asha-empire.wiki/) Game wiki and knowledge base site (Under development)
 
