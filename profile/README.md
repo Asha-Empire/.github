@@ -27,3 +27,17 @@ Join the battle, forge your destiny, and become the ultimate ruler of the Asha E
 - [Asha Empire Trade Website](https://asha-empire.trade/) The site where game assets and characters are traded (Under development)
 - [Asha Empire Wiki Website](https://asha-empire.wiki/) Game wiki and knowledge base site (Under development)
 
+
+# Queen Naina
+
+Queen Naina is a young and charismatic woman possessing the wisdom to govern a massive empire. As she has Germanic origins, she possesses typical Northern European features: long, straight, platinum blonde hair; deep blue eyes; and fair, porcelain-like skin. However, years of traversing the galaxy and taking on leadership roles have etched a distinct maturity and seriousness onto her face.
+
+Naina is of a slender and tall build, having developed an athletic body under the influence of military discipline. She stands at around 1.75 meters and her posture exudes the resolve and strength of a leader. Her facial features are prominent and strong, her high cheekbones and jawline giving her an authoritative appearance.
+
+Naina typically dresses in elegant and functional attire. Her usual outfit is a dark blue uniform adorned with gold trimmings, and a sword typically hangs at her waist. On the left side of her uniform jacket is a badge carrying the symbol of the Asha Empire.
+
+She often keeps her hair tied back in a sleek and tight style, giving her an even more formal and authoritative appearance. However, she also likes to let her hair down on special occasions.
+
+Her facial expression is usually stern and composed, but it softens from time to time with a gentle smile, showing her more humane side. In her eyes, one can usually see the determination of a leader, the ambition of a driven ruler, and a touch of melancholy.
+
+![Queen Naina](https://github.com/Asha-Empire/.github/blob/fcca28473a5160ad4025f88ca80729a14da8afec/profile/queen_naina.jpg)
