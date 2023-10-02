@@ -6,7 +6,7 @@ You'll start off on a single planet and embark on a journey to build your own em
 
 Each character in the game is an NFT that can be bought, sold, and traded on the open market. Create an account, buy your NFT, and choose your character. You'll level up as you progress through the game, unlocking new technologies, weapons, vehicles, and spaceships.
 
-Get ahead of the competition by establishing organizations, forming alliances, and creating your own regions, villages, and cities. Manage your resources and taxes wisely, as you collect revenue from your area and pay it back to the empire.
+Get ahead of the competition by establishing dukedom, forming alliances, and creating your own regions, villages, and cities. Manage your resources and taxes wisely, as you collect revenue from your area and pay it back to the empire.
 
 Take on dangerous missions, engage in thrilling battles, and explore the unknown. You'll need to get life insurance in the cities to ensure that your character will revive from its clone if it perishes in the game. But don't worry, while you're out of the game, your character will automatically sleep in the sleeping cube.
 
