@@ -1,6 +1,6 @@
 # Asha Empire Online
 
-Get ready for the ultimate sci-fi gaming experience as you step into the world of the Asha Empire. Explore the vast galaxy, discover new planets, and lead your faction to victory. This game is a unique blend of strategy, RPG and FPS, where your choices matter and your skills are put to the test.
+Get ready for the ultimate sci-fi gaming experience as you step into the world of the Asha Empire. Explore the vast galaxy, discover new planets, and lead your faction to victory. This game is a unique blend of strategy, RPG and TPS/FPS, where your choices matter and your skills are put to the test.
 
 You'll start off on a single planet and embark on a journey to build your own empire. Travel to other planets, space stations and outposts as you expand your territory and increase your power. With a focus on safety, players are protected from attacking each other in designated safe zones.
 
