@@ -43,3 +43,15 @@ She often keeps her hair tied back in a sleek and tight style, giving her an eve
 Her facial expression is usually stern and composed, but it softens from time to time with a gentle smile, showing her more humane side. In her eyes, one can usually see the determination of a leader, the ambition of a driven ruler, and a touch of melancholy.
 
 ![Queen Naina](https://github.com/Asha-Empire/.github/blob/fcca28473a5160ad4025f88ca80729a14da8afec/profile/queen_naina.jpg)
+
+# Donation and Support
+
+If you like the project and want to support it, you can donate to the following crypto addresses.
+
+USDT: 0xa5a87a939bfcd492f056c26e4febe102ea599b5b
+BUSD: 0xa5a87a939bfcd492f056c26e4febe102ea599b5b
+BTC: 184FDZ1qV2KFzEaNqMefw8UssG8Z57FA6F
+ETH: 0xa5a87a939bfcd492f056c26e4febe102ea599b5b
+SOL: HS9dUvRSqYGxkDiwTpCvKTVBBWqqtVoXdRK2AanLHMZn
+MATIC: 0xa5a87a939bfcd492f056c26e4febe102ea599b5b
+XTZ: tz1RvnJk5xVtDy2g6ijkcyGSzKA4qFg5Nuy3
