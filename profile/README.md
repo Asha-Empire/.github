@@ -44,9 +44,17 @@ Her facial expression is usually stern and composed, but it softens from time to
 
 ![Queen Naina](https://github.com/Asha-Empire/.github/blob/fcca28473a5160ad4025f88ca80729a14da8afec/profile/queen_naina.jpg)
 
-# Donation and Support
+# Support the Development of "Asha Empire" - A Gaming Revolution
 
-If you like the project and want to support it, you can donate to the following crypto addresses.
+Dear Gaming Enthusiasts and Supporters,
+
+We are excited to share with you an ambitious project that is poised to redefine the gaming landscape: Asha Empire. Our vision for Asha Empire is to create a gaming experience that is not only immersive and engaging but also groundbreaking in its technical and creative aspects.
+
+However, bringing this vision to life requires substantial resources. The development process demands both time and financial investment to ensure that every aspect of the game meets our high standards of quality and innovation. This is where we need your support.
+
+To accelerate the development process and to sustain our project, we are reaching out for your assistance. Your contributions can make a significant difference in how quickly and effectively we can bring Asha Empire to life.
+
+We have set up the following cryptocurrency wallets for donations:
 
 USDT: 0xa5a87a939bfcd492f056c26e4febe102ea599b5b
 
@@ -61,3 +69,11 @@ SOL: HS9dUvRSqYGxkDiwTpCvKTVBBWqqtVoXdRK2AanLHMZn
 MATIC: 0xa5a87a939bfcd492f056c26e4febe102ea599b5b
 
 XTZ: tz1RvnJk5xVtDy2g6ijkcyGSzKA4qFg5Nuy3
+
+Your support, whether big or small, is immensely valuable to us. Every contribution brings us one step closer to making Asha Empire a reality. Together, let's build a gaming experience that will captivate players around the world.
+
+Thank you for being a part of our journey.
+
+Best regards,
+
+*Ferhat Mousavi (Founder of Asha Empire)*
