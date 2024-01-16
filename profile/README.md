@@ -14,8 +14,6 @@ In the world of Asha Empire, you can extract different minerals, produce product
 
 Join the battle, forge your destiny, and become the ultimate ruler of the Asha Empire. Get ready for a thrilling sci-fi adventure that you'll never forget.
 
-![https://github.com/Asha-Empire/.github/blob/d3f847deb165ebb6e5cc6f0a8a5a0817c49ab0b2/profile/Roadmap.jpg](https://github.com/Asha-Empire/.github/blob/5f62873f85fdadedc8ec4988eabc60f252569233/profile/Roadmap.jpg)
-
 * [Game Play Scenario](https://github.com/Asha-Empire/Game-Play-Scenario/blob/main/README.md) or [This Page](https://asha-empire.github.io/Game-Play-Scenario/)
 * [Path To Asha Empire Timeline Story](https://github.com/Asha-Empire/Game-Story/blob/main/README.md) or [This Page](https://asha-empire.github.io/Game-Story/)
 * [Short Stories](https://github.com/Asha-Empire/Short-Stories/blob/main/README.md)
