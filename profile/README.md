@@ -54,19 +54,13 @@ To accelerate the development process and to sustain our project, we are reachin
 
 We have set up the following cryptocurrency wallets for donations:
 
-USDT: 0xa5a87a939bfcd492f056c26e4febe102ea599b5b
-
-BUSD: 0xa5a87a939bfcd492f056c26e4febe102ea599b5b
-
-BTC: 184FDZ1qV2KFzEaNqMefw8UssG8Z57FA6F
-
-ETH: 0xa5a87a939bfcd492f056c26e4febe102ea599b5b
-
-SOL: HS9dUvRSqYGxkDiwTpCvKTVBBWqqtVoXdRK2AanLHMZn
-
-MATIC: 0xa5a87a939bfcd492f056c26e4febe102ea599b5b
-
-XTZ: tz1RvnJk5xVtDy2g6ijkcyGSzKA4qFg5Nuy3
+- USDT: 0xa5a87a939bfcd492f056c26e4febe102ea599b5b
+- BUSD: 0xa5a87a939bfcd492f056c26e4febe102ea599b5b
+- BTC: 184FDZ1qV2KFzEaNqMefw8UssG8Z57FA6F
+- ETH: 0xa5a87a939bfcd492f056c26e4febe102ea599b5b
+- SOL: HS9dUvRSqYGxkDiwTpCvKTVBBWqqtVoXdRK2AanLHMZn
+- MATIC: 0xa5a87a939bfcd492f056c26e4febe102ea599b5b
+- XTZ: tz1RvnJk5xVtDy2g6ijkcyGSzKA4qFg5Nuy3
 
 Your support, whether big or small, is immensely valuable to us. Every contribution brings us one step closer to making Asha Empire a reality. Together, let's build a gaming experience that will captivate players around the world.
 
@@ -74,4 +68,4 @@ Thank you for being a part of our journey.
 
 Best regards,
 
-*Ferhat Mousavi (Founder of Asha Empire)*
+*Ferhat Mousavi (Founder of Asha Empire Team)*
